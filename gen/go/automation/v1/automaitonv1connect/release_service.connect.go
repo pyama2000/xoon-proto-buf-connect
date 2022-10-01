@@ -2,7 +2,7 @@
 //
 // Source: automation/v1/release_service.proto
 
-package v1connect
+package automaitonv1connect
 
 import (
 	context "context"

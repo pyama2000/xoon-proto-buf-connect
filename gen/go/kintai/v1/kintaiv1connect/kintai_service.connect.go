@@ -2,7 +2,7 @@
 //
 // Source: kintai/v1/kintai_service.proto
 
-package v1connect
+package kintaiv1connect
 
 import (
 	context "context"
