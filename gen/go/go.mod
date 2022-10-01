@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/bufbuild/connect-go v0.5.0
-	github.com/pyama2000/xoon-proto/gen/go v0.1.14
+	github.com/pyama2000/xoon-proto/gen/go v0.1.15
 	google.golang.org/protobuf v1.28.1
 )
 
