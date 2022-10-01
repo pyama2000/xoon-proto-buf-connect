@@ -2,7 +2,7 @@
 //
 // Source: notification/v1/notification_service.proto
 
-package v1connect
+package notificationv1connect
 
 import (
 	context "context"

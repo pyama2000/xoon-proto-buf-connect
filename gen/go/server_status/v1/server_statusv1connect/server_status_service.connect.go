@@ -2,7 +2,7 @@
 //
 // Source: server_status/v1/server_status_service.proto
 
-package v1connect
+package server_statusv1connect
 
 import (
 	context "context"
