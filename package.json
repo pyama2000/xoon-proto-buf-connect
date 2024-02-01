@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "@bufbuild/protoc-gen-connect-web": "0.2.1",
-    "@bufbuild/protoc-gen-es": "0.1.1"
+    "@bufbuild/protoc-gen-es": "1.7.2"
   },
   "dependencies": {
     "@bufbuild/connect-web": "0.2.1",
